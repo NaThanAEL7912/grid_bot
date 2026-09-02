@@ -1,9 +1,8 @@
 {
-  "latest_version": "8.32.0",
-  "title": "Hyperion AI Quant Terminal v8.32.0 (2단계 분할 스탑로스)",
-  "release_notes": "⚡ 2단계 분할 스탑로스 ($78,000 50% + $77,900 전량) & 전문 금융 용어 표준화 정제 & Hyperion Quant Labs 정식 릴리즈",
-  "download_url": "https://github.com/NaThanAEL7912/grid_bot/releases/download/v8.32.0/Hyperion_Quant_Setup_v8.32.0.exe",
-  "asset_name": "Hyperion_Quant_Setup_v8.32.0.exe",
-  "asset_size": 164341095,
-  "published_at": "2026-09-01T23:23:00Z"
+  "latest_version": "8.45.0",
+  "title": "Hyperion AI Quant Terminal v8.45.0",
+  "release_notes": "✨ 영구 고정 단일 다운로드 링크(Canonical Latest URL) 구축, Setup.exe 표준 파일명 통일 및 홈페이지/깃허브/실서버 무중단 배포 (v8.45.0)",
+  "download_url": "https://github.com/NaThanAEL7912/grid_bot/releases/latest/download/Hyperion_Quant_Setup.exe",
+  "asset_name": "Hyperion_Quant_Setup.exe",
+  "published_at": "2026-09-02T12:52:19.652570+00:00"
 }
