@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.66.0",
-  "title": "Hyperion AI Quant Terminal v8.66.0",
-  "release_notes": "✨ 8088 포트 소켓 충돌(ERR_CONNECTION_REFUSED) 완전 해결 및 윈도우 타이틀 군더더기 문구 삭제 정식 원복 (v8.66.0)",
+  "latest_version": "8.80.0",
+  "title": "Hyperion AI Quant Terminal v8.80.0",
+  "release_notes": "👑 신규 버전 확인 엔진 정식 유지 & 전 부속(인스톨러·서버·매니페스트) 100% 일체 동시 빌드·배포 파이프라인 확립 (v8.80.0)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-03T06:23:30.001857+00:00"
+  "published_at": "2026-09-03T13:10:01.854409+00:00"
 }
