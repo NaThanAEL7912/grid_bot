@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.58.0",
-  "title": "Hyperion AI Quant Terminal v8.58.0",
-  "release_notes": "✨ 합산 평단가(BEP) 상방 안전 익절 배치 및 평단가 하방 매도(역마진) 원천 차단 엔진 구축 (v8.58.0)",
+  "latest_version": "8.59.0",
+  "title": "Hyperion AI Quant Terminal v8.59.0",
+  "release_notes": "✨ 비트겟 V2 헤지모드 posSide 완전 탑재 및 1:1 지정가 익절 매도(TP) 실체 발주 100% 보장 (v8.59.0)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-02T18:31:39.744823+00:00"
+  "published_at": "2026-09-03T01:50:19.926226+00:00"
 }
