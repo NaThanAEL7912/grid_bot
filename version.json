@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.60.0",
-  "title": "Hyperion AI Quant Terminal v8.60.0",
-  "release_notes": "✨ 비트겟 V2 롱익절 side=buy API 규격 완벽 정합 & 차트 상단 가상 유령선 완전 박멸 (v8.60.0)",
+  "latest_version": "8.65.0",
+  "title": "Hyperion AI Quant Terminal v8.65.0",
+  "release_notes": "✨ 클라우드 서버 인스톨러 버전 불일치 해결, 정식 v8.65.0 인스톨러 컴파일 및 업데이트 무한 팝업 완전 박멸 (v8.65.0)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-03T02:35:23.131293+00:00"
+  "published_at": "2026-09-03T05:52:07.344555+00:00"
 }
