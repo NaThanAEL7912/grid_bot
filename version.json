@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.93.0",
-  "title": "Hyperion AI Quant Terminal v8.93.0",
-  "release_notes": "👑 비트겟 실전 선물 매매 100% 완전 일체화 DCA 하방 분할 매수그물망 & 1:1 평단가 상방 지정가 익절(TP) 아키텍처 탑재, 상단 허위 SELL 주문 및 동일 가격 매수/익절 중복 원천 박멸 (v8.93.0)",
+  "latest_version": "8.94.0",
+  "title": "Hyperion AI Quant Terminal v8.94.0",
+  "release_notes": "👑 [v8.94.0] RSI 필터 완전 제거 24/7 순수 무한 핑퐁 복귀 & 하방 분할 매집 시 평단가 하향 연동 동적 익절(Dynamic BEP Tracking TP) 일제 하향 슬라이딩 엔진 탑재 (모의/실전 100% 동일 동기화)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-04T04:48:44.340411+00:00"
+  "published_at": "2026-09-04T05:39:47.757649+00:00"
 }
