@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.87.0",
-  "title": "Hyperion AI Quant Terminal v8.87.0",
-  "release_notes": "👑 봇 가동 정지(STOP) 버튼 눈부심 오렌지색 완전 제거 및 시작 버튼과 100% 동일한 로열 사파이어-바이올렛 3D 일체화 디자인 적용 (v8.87.0)",
+  "latest_version": "8.92.0",
+  "title": "Hyperion AI Quant Terminal v8.92.0",
+  "release_notes": "👑 실전 거래소 100% 동일 호가 교차(Price Crossing) 체결 모델 탑재, 동일 가격 1초 무한 핑퐁 체결 루프 원천 박멸, 체결 로그 손익 부호(+$- 버그) 정상화 및 거래량 차트 하단 12% 슬림 오버레이 개편 (v8.92.0)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-03T18:52:34.616666+00:00"
+  "published_at": "2026-09-04T03:38:14.957718+00:00"
 }
