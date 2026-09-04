@@ -1,8 +1,8 @@
 {
-  "latest_version": "8.92.0",
-  "title": "Hyperion AI Quant Terminal v8.92.0",
-  "release_notes": "👑 실전 거래소 100% 동일 호가 교차(Price Crossing) 체결 모델 탑재, 동일 가격 1초 무한 핑퐁 체결 루프 원천 박멸, 체결 로그 손익 부호(+$- 버그) 정상화 및 거래량 차트 하단 12% 슬림 오버레이 개편 (v8.92.0)",
+  "latest_version": "8.93.0",
+  "title": "Hyperion AI Quant Terminal v8.93.0",
+  "release_notes": "👑 비트겟 실전 선물 매매 100% 완전 일체화 DCA 하방 분할 매수그물망 & 1:1 평단가 상방 지정가 익절(TP) 아키텍처 탑재, 상단 허위 SELL 주문 및 동일 가격 매수/익절 중복 원천 박멸 (v8.93.0)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-04T03:38:14.957718+00:00"
+  "published_at": "2026-09-04T04:48:44.340411+00:00"
 }
