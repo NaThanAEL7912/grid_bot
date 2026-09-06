@@ -1,8 +1,8 @@
 {
-  "latest_version": "9.6.5",
-  "title": "Hyperion AI Quant Terminal v9.6.5",
-  "release_notes": "👑 [v9.6.5] 하이페리온 3대 보안·안정성 강화: 외부 악성 웹사이트 CSRF 방어용 FastAPI CORS 로컬 방화벽 탑재, 방송/화면공유 노출 방지 API Secret/Passphrase 8자리 마스킹 및 스마트 보존, 프레임리스 테두리 8방향 마우스 드래그 리사이즈(Border Resize) 완비",
+  "latest_version": "9.6.8",
+  "title": "Hyperion AI Quant Terminal v9.6.8",
+  "release_notes": "👑 [v9.6.8] 하이페리온 마스터 통합: 우상단 풀스크린 복원 아이콘(❐) 동적 토글, BTC/USDT 선물 단일 플래그십 집중 정예화, 모의투자 가상 체결 엔진 실전매매 100% 일체화(하방 20단계 매수그물망 완전 동기화 및 우측 패널 전개폭 UI 정밀화)",
   "download_url": "https://hyperion-quant.com/download/Hyperion_Quant_Setup.exe",
   "asset_name": "Hyperion_Quant_Setup.exe",
-  "published_at": "2026-09-06T07:14:31.355404+00:00"
+  "published_at": "2026-09-06T12:27:15.361733+00:00"
 }
